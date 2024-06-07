@@ -1,4 +1,4 @@
-package study.springmvcpart1v3;
+package study.itemservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class SpringMvcPart1V3Application {
     public static void main(String[] args) {
         SpringApplication.run(SpringMvcPart1V3Application.class, args);
     }
-
 }

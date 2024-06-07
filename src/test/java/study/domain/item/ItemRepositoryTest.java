@@ -2,6 +2,8 @@ package study.domain.item;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
+import study.itemservice.domain.item.Item;
+import study.itemservice.domain.item.ItemRepository;
 
 import java.util.List;
 

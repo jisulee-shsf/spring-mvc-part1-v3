@@ -1,4 +1,4 @@
-package study.domain.item;
+package study.itemservice.domain.item;
 
 import lombok.Getter;
 import lombok.Setter;
